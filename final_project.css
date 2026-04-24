@@ -1,0 +1,12 @@
+.article-img {
+  width: 300px;
+  height: 210px;
+  object-fit: cover;
+}
+
+.footer {
+    text-align: center;
+    background-color: rgb(7, 121, 7);
+    color: rgb(232, 241, 234);
+    font-family: Arial, Helvetica, sans-serif;
+}
